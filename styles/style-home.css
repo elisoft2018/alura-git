@@ -1,0 +1,75 @@
+.main-title {
+
+    padding-left: 50px;
+}
+
+#banner {
+
+    width: 100%;
+    border-radius: 20px;
+}
+
+.main{
+
+background: #CCCCCC;
+padding: 20px;
+border-radius: 10px;
+
+}
+
+.center-title {
+
+    text-align: center;
+    padding: 20px;
+
+}
+
+p {
+
+    text-align: center;
+
+}
+
+em strong {
+
+    color: red;
+}
+
+#mission {
+
+    font-size: 20px;
+}
+
+.differencials {
+
+    background: #CCCCCC;
+    border-radius: 20px;
+    margin-top: -14px;
+    padding-top: -20px;
+
+}
+
+.items {
+
+    font-style: italic;
+
+}
+
+ul {
+
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.img_differencials{
+
+    width: 50%;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    margin-left: -180px;
+
+}
+
